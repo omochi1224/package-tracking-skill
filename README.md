@@ -4,7 +4,6 @@
 AI エージェントから行うための [Claude Code Skill](https://docs.claude.com/en/docs/claude-code/skills) です。
 
 各社の公開追跡ページを取得・解析して配送状況と履歴を返します。API キーや認証は不要です。
-公開前提のため、認証情報・個人情報は一切含みません。
 
 ## 構成
 
